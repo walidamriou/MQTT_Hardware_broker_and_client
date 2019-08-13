@@ -1,1 +1,1 @@
-# MQTT
+# MQTT Hardware broker & client
